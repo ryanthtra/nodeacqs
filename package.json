@@ -1,0 +1,23 @@
+{
+  "name": "nodeacqs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanthtra/nodeacqs.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ryanthtra/nodeacqs/issues"
+  },
+  "homepage": "https://github.com/ryanthtra/nodeacqs#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
